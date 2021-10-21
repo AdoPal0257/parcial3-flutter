@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324805402018",
+    "firebase_url": "https://parcial3-kelvin-palacios-default-rtdb.firebaseio.com",
+    "project_id": "parcial3-kelvin-palacios",
+    "storage_bucket": "parcial3-kelvin-palacios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324805402018:android:e0a4b3d89adcbbc84626fb",
+        "android_client_info": {
+          "package_name": "com.example.parcial3_kelvin_palacios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324805402018-ts9tf7uh3jvst1kla2ti1oa2hgfcjhuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrm9YM2bhWAUxK4e2ut2T7nYN3e_cuW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324805402018-ts9tf7uh3jvst1kla2ti1oa2hgfcjhuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
